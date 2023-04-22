@@ -1,0 +1,19 @@
+{
+  "name": "@vladimir-study/platform_node_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vladimir-Study/platform_node_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vladimir-Study/platform_node_js/issues"
+  },
+  "homepage": "https://github.com/Vladimir-Study/platform_node_js#readme"
+}
